@@ -1,5 +1,11 @@
 # Lab 5: Inheritance and Polymorphism in Java
 
+### Variant Calculation: **Student ID = 21**
+
+**C13 = Student ID % 13**  
+   - **21 % 13 = 8**
+
+---
 ## Task Description
 
 This program demonstrates the use of inheritance and polymorphism in Java by:
